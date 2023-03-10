@@ -336,7 +336,10 @@ header {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 .country div:hover {
   box-shadow: 0 -6px 10px 5px rgba(0, 0, 0, 0.1);
